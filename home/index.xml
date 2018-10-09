@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://singkru.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://singkru.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -27,24 +18,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://singkru.github.io/home/about/</guid>
-      <description>Biography Seung Jun Baek is a full professor of Computer Science and Engineering Dept. at Korea University. His research interests include machine learning, mobile computing, data-driven optimization, deep learning, Internet of Things (IoT), and information/communication networks. He leads the System Intelligence &amp;amp; Networking Group with various research projects on computer vision, autonomous driving system, vehicular network, mobile edge computing.</description>
+      <description>Biography Seung Jun Baek is a full professor of Computer Science and Engineering at Korea University. Prof. Baek received Ph.D. and M.S. degrees at University of Texas at Austin, and B.S. degree at Seoul National University, all in Electrical and Computer Engineering. He was a Member Technical Staff of DSP Systems R&amp;amp;D center, Communication and Medical Systems Lab. of Texas Instruments. He next joined Korea University: as of 2018, is a professor at Computer Science and Engr.</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://singkru.github.io/home/publications_selected/</link>
+      <title>Research &amp;  Projects</title>
+      <link>https://singkru.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://singkru.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/skills/</guid>
+      <guid>https://singkru.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -58,67 +40,18 @@
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>https://singkru.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://singkru.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://singkru.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://singkru.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://singkru.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://singkru.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://singkru.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://singkru.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0900</pubDate>
-      
-      <guid>https://singkru.github.io/home/search/</guid>
-      <description></description>
+      <description>The following is a list of course I have taught. For the materials, please refer to BlackBoard page at Korea University.
+Fall 2018
+ COSE380: Digital Signal Processing COSE342: Computer Networks  Spring 2018
+ COSE221 : Digital Logic Design  Fall 2017
+ CRE793: Convex Optimization (Graduate level) COSE342: Computer Networks  Spring 2017
+ COSE221 : Digital Logic Design  Fall 2016
+ COSE380: Digital Signal Processing COSE342: Computer Networks  </description>
     </item>
     
     <item>

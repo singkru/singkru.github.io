@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on System Intelligence &amp; Networking Group</title>
+    <title>Selected Publications on System Intelligence &amp; Networking Group</title>
     <link>https://singkru.github.io/publication/</link>
-    <description>Recent content in Publications on System Intelligence &amp; Networking Group</description>
+    <description>Recent content in Selected Publications on System Intelligence &amp; Networking Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,47 +13,173 @@
     
     
     <item>
-      <title>Optimized Contract-based Model for Resource Allocation in Federated Geo-distributed Clouds</title>
-      <link>https://singkru.github.io/publication/contract-tsc-2018/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Statistical Multiplexing and Traffic Shaping Games for Network Slicing</title>
+      <link>https://singkru.github.io/publication/slice/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/publication/contract-tsc-2018/</guid>
+      <guid>https://singkru.github.io/publication/slice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PADS: Privacy-preserving Auction Design forAllocating Dynamically Priced Cloud Resources</title>
-      <link>https://singkru.github.io/publication/pads-2017/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      <title>A Robust Proposal Generation Method for Text Lines in Natural Scene Images</title>
+      <link>https://singkru.github.io/publication/text/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/publication/pads-2017/</guid>
+      <guid>https://singkru.github.io/publication/text/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cost-aware Resource Management for Federated Clouds Using Resource Sharing Contracts</title>
-      <link>https://singkru.github.io/publication/contract-cloud-2017/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Joint Load Balancing and Energy Saving Algorithm for Virtual Network Embedding in Infrastructure Providers</title>
+      <link>https://singkru.github.io/publication/vn/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/publication/contract-cloud-2017/</guid>
+      <guid>https://singkru.github.io/publication/vn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Zenith: Utility-aware Resource Allocation for Edge Computing</title>
-      <link>https://singkru.github.io/publication/zenith-edge-2017/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Multicast Scheduling for Relay-based Heterogeneous Networks using Rateless Codes</title>
+      <link>https://singkru.github.io/publication/relay-bs/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/publication/zenith-edge-2017/</guid>
+      <guid>https://singkru.github.io/publication/relay-bs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MEMoMR: Accelerate MapReduce via reuse of intermediate results</title>
-      <link>https://singkru.github.io/publication/memomr-ccpe/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      <title>Delay-Optimal Scheduling for Two-Hop Relay Networks with Randomly Varying Connectivity: Join the Shortest Queue-Longest Connected Queue Policy</title>
+      <link>https://singkru.github.io/publication/jsq/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://singkru.github.io/publication/memomr-ccpe/</guid>
+      <guid>https://singkru.github.io/publication/jsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint routing and scheduling for data collection with compressive sensing to achieve order-optimal latency</title>
+      <link>https://singkru.github.io/publication/sensor/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Collection of Sparse Data in Wireless Sensor Networks Using Sparse Random Matrices</title>
+      <link>https://singkru.github.io/publication/tosn/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/tosn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Power Allocation for Femtocell Networks Subject to Macrocell SINR Balancing</title>
+      <link>https://singkru.github.io/publication/game/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title>
+      <link>https://singkru.github.io/publication/mta/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Scheduling of Randomly Coded Multicast Transmissions at Half-Duplex Relay Stations</title>
+      <link>https://singkru.github.io/publication/relay-rs/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/relay-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title>
+      <link>https://singkru.github.io/publication/jos/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/jos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing one-way hash chain based incentive mechanism for vehicular ad hoc networks</title>
+      <link>https://singkru.github.io/publication/gpgpu/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title>
+      <link>https://singkru.github.io/publication/comj/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/comj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title>
+      <link>https://singkru.github.io/publication/spl/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/spl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title>
+      <link>https://singkru.github.io/publication/etri/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/etri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title>
+      <link>https://singkru.github.io/publication/tvt/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/tvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Feedback Overhead in  Opportunistic Scheduling of Wireless Networks Exploiting Overhearing</title>
+      <link>https://singkru.github.io/publication/ksii/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/ksii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-Optimal Opportunistic Scheduling and Approximations: The Log Rule</title>
+      <link>https://singkru.github.io/publication/log/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of the Extreme Values under Deadline Constraints in Wireless Sensor Networks</title>
+      <link>https://singkru.github.io/publication/sensors/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0900</pubDate>
+      
+      <guid>https://singkru.github.io/publication/sensors/</guid>
       <description></description>
     </item>
     
