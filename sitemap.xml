@@ -1,307 +1,367 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/slice/</loc>
-      <lastmod>2018-07-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/text/</loc>
-      <lastmod>2018-06-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication-type/2/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/vn/</loc>
-      <lastmod>2018-05-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/relay-bs/</loc>
-      <lastmod>2017-11-02T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/c-chen/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/jsq/</loc>
-      <lastmod>2017-10-30T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/c-li/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/sensor/</loc>
-      <lastmod>2017-10-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/gcomm/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/tosn/</loc>
-      <lastmod>2017-09-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/r-yin/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/s-baek/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/game/</loc>
-      <lastmod>2016-11-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/mta/</loc>
-      <lastmod>2016-10-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/relay-rs/</loc>
-      <lastmod>2016-10-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/x-yu/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/projects/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/z-meng/</loc>
+    <lastmod>2020-09-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/projects/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/post/mpij/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/post/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/jos/</loc>
-      <lastmod>2015-03-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/seung-jun-baek/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/gpgpu/</loc>
-      <lastmod>2014-12-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/post/bk/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/comj/</loc>
-      <lastmod>2014-03-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/iotj/</loc>
+    <lastmod>2020-01-30T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/spl/</loc>
-      <lastmod>2013-05-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/c-pyoung/</loc>
+    <lastmod>2020-01-30T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/etri/</loc>
-      <lastmod>2012-10-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/s.-baek/</loc>
+    <lastmod>2020-01-30T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/tvt/</loc>
-      <lastmod>2012-09-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/project/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/ksii/</loc>
-      <lastmod>2012-02-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/project/fusion/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/log/</loc>
-      <lastmod>2011-11-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication/sensors/</loc>
-      <lastmod>2011-05-01T00:00:00+09:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication_types/2/</loc>
-      <lastmod>2018-07-01T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/tvt2/</loc>
+    <lastmod>2019-02-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/y-shin/</loc>
+    <lastmod>2019-02-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/albert-banchs/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/gustavo-de-veciana/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/projects/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/jiaxiao-zheng/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/publication_types/</loc>
-      <lastmod>2018-07-01T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/pablo-caballero/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/s.j.-baek/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/slice/</loc>
+    <lastmod>2018-07-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/publication/text/</loc>
+    <lastmod>2018-06-01T00:00:00+09:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://singkru.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://singkru.github.io/author/kun-fan/</loc>
+    <lastmod>2018-06-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/ck-pyoung/</loc>
+    <lastmod>2018-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/vn/</loc>
+    <lastmod>2018-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/c.-chen/</loc>
+    <lastmod>2017-11-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/relay-bs/</loc>
+    <lastmod>2017-11-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/jsq/</loc>
+    <lastmod>2017-10-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/js-park/</loc>
+    <lastmod>2017-10-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/sensor/</loc>
+    <lastmod>2017-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/x.-yu/</loc>
+    <lastmod>2017-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/tosn/</loc>
+    <lastmod>2017-09-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/game/</loc>
+    <lastmod>2016-11-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/in-sop-cho/</loc>
+    <lastmod>2016-11-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/mta/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/g-an/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/g.-de-veciana/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/j.-shin/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/k.-lee/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/relay-rs/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/sj-baek/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/jos/</loc>
+    <lastmod>2015-03-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/gpgpu/</loc>
+    <lastmod>2014-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/comj/</loc>
+    <lastmod>2014-03-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/seung-jun-baek/</loc>
+    <lastmod>2013-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/spl/</loc>
+    <lastmod>2013-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/etri/</loc>
+    <lastmod>2012-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/s.j.baek/</loc>
+    <lastmod>2012-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/tvt/</loc>
+    <lastmod>2012-09-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/ksii/</loc>
+    <lastmod>2012-02-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/b.-sadig/</loc>
+    <lastmod>2011-11-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/log/</loc>
+    <lastmod>2011-11-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/xiaohan-yu/</loc>
+    <lastmod>2011-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/hyunhak-kim/</loc>
+    <lastmod>2011-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/kyogu-lee/</loc>
+    <lastmod>2011-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/publication/sensors/</loc>
+    <lastmod>2011-05-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://singkru.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+  </url>
   
 </urlset>

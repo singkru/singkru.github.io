@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CK Pyoung | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/ck-pyoung/</link>
+      <atom:link href="https://singkru.github.io/author/ck-pyoung/index.xml" rel="self" type="application/rss+xml" />
+    <description>CK Pyoung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>CK Pyoung</title>
+      <link>https://singkru.github.io/author/ck-pyoung/</link>
+    </image>
+    
+    <item>
+      <title>Joint Load Balancing and Energy Saving Algorithm for Virtual Network Embedding in Infrastructure Providers</title>
+      <link>https://singkru.github.io/publication/vn/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/vn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

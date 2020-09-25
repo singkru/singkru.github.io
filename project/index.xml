@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on System Intelligence &amp; Networking Group</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on System Intelligence &amp; Networking Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
+    <title>Projects | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/project/</link>
+      <atom:link href="https://singkru.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://singkru.github.io/project/</link>
+    </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
+      <title>자율주행을 위한 데이터 융합</title>
+      <link>https://singkru.github.io/project/fusion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/fusion/</guid>
+      <description>&lt;p&gt;Autonomous navigation systems require timely decision making and collaboration to ensure safety. In this research, we study a real-time fusion of various sensor data, for example, vision, LiDAR, radar data in collaborative environments..&lt;/p&gt;
+</description>
     </item>
     
   </channel>

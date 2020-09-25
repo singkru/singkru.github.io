@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. de Veciana | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/g.-de-veciana/</link>
+      <atom:link href="https://singkru.github.io/author/g.-de-veciana/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. de Veciana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>G. de Veciana</title>
+      <link>https://singkru.github.io/author/g.-de-veciana/</link>
+    </image>
+    
+    <item>
+      <title>Opportunistic Scheduling of Randomly Coded Multicast Transmissions at Half-Duplex Relay Stations</title>
+      <link>https://singkru.github.io/publication/relay-rs/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/relay-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title>
+      <link>https://singkru.github.io/publication/tvt/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/tvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-Optimal Opportunistic Scheduling and Approximations: The Log Rule</title>
+      <link>https://singkru.github.io/publication/log/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/log/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

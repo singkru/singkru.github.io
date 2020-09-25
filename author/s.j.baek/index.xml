@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.J.Baek | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/s.j.baek/</link>
+      <atom:link href="https://singkru.github.io/author/s.j.baek/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.J.Baek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>S.J.Baek</title>
+      <link>https://singkru.github.io/author/s.j.baek/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title>
+      <link>https://singkru.github.io/publication/etri/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/etri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title>
+      <link>https://singkru.github.io/publication/tvt/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/tvt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

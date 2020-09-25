@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Yu | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/x.-yu/</link>
+      <atom:link href="https://singkru.github.io/author/x.-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>X. Yu</title>
+      <link>https://singkru.github.io/author/x.-yu/</link>
+    </image>
+    
+    <item>
+      <title>Joint routing and scheduling for data collection with compressive sensing to achieve order-optimal latency</title>
+      <link>https://singkru.github.io/publication/sensor/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Collection of Sparse Data in Wireless Sensor Networks Using Sparse Random Matrices</title>
+      <link>https://singkru.github.io/publication/tosn/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/tosn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title>
+      <link>https://singkru.github.io/publication/spl/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/spl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

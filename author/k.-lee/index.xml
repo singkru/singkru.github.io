@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Lee | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/k.-lee/</link>
+      <atom:link href="https://singkru.github.io/author/k.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Lee</title>
+      <link>https://singkru.github.io/author/k.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title>
+      <link>https://singkru.github.io/publication/mta/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title>
+      <link>https://singkru.github.io/publication/jos/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/jos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title>
+      <link>https://singkru.github.io/publication/comj/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0900</pubDate>
+      <guid>https://singkru.github.io/publication/comj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
