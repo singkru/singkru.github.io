@@ -5,9 +5,9 @@
     <link>https://singkru.github.io/publication-type/2/</link>
       <atom:link href="https://singkru.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://singkru.github.io/publication-type/2/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Real-Time Inter-Vehicle Data Fusion based on A New Metric for Evidence Distance in Autonomous Vehicle Systems</title>
       <link>https://singkru.github.io/publication/fusion/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/fusion/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Low-Complexity Coded Transmission Without CSI for Full-Duplex Relay Networks</title>
       <link>https://singkru.github.io/publication/gcomm/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/gcomm/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Blockchain of Finite-Lifetime Blocks with Applications to Edge-based IoT</title>
       <link>https://singkru.github.io/publication/iotj/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/iotj/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Cooperative Buffer-Aided Relaying Using Full-Duplex Relays With Flow Control</title>
       <link>https://singkru.github.io/publication/tvt2/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/tvt2/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Statistical Multiplexing and Traffic Shaping Games for Network Slicing</title>
       <link>https://singkru.github.io/publication/slice/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/slice/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>A Robust Proposal Generation Method for Text Lines in Natural Scene Images</title>
       <link>https://singkru.github.io/publication/text/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/text/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Joint Load Balancing and Energy Saving Algorithm for Virtual Network Embedding in Infrastructure Providers</title>
       <link>https://singkru.github.io/publication/vn/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/vn/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Multicast Scheduling for Relay-based Heterogeneous Networks using Rateless Codes</title>
       <link>https://singkru.github.io/publication/relay-bs/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/relay-bs/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Delay-Optimal Scheduling for Two-Hop Relay Networks with Randomly Varying Connectivity: Join the Shortest Queue-Longest Connected Queue Policy</title>
       <link>https://singkru.github.io/publication/jsq/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/jsq/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Joint routing and scheduling for data collection with compressive sensing to achieve order-optimal latency</title>
       <link>https://singkru.github.io/publication/sensor/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/sensor/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>Energy-Efficient Collection of Sparse Data in Wireless Sensor Networks Using Sparse Random Matrices</title>
       <link>https://singkru.github.io/publication/tosn/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/tosn/</guid>
       <description></description>
     </item>
@@ -103,7 +103,7 @@
     <item>
       <title>Distributed Power Allocation for Femtocell Networks Subject to Macrocell SINR Balancing</title>
       <link>https://singkru.github.io/publication/game/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/game/</guid>
       <description></description>
     </item>
@@ -111,7 +111,7 @@
     <item>
       <title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title>
       <link>https://singkru.github.io/publication/mta/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/mta/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>Opportunistic Scheduling of Randomly Coded Multicast Transmissions at Half-Duplex Relay Stations</title>
       <link>https://singkru.github.io/publication/relay-rs/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/relay-rs/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title>
       <link>https://singkru.github.io/publication/jos/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/jos/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>Securing one-way hash chain based incentive mechanism for vehicular ad hoc networks</title>
       <link>https://singkru.github.io/publication/gpgpu/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/gpgpu/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title>
       <link>https://singkru.github.io/publication/comj/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/comj/</guid>
       <description></description>
     </item>
@@ -151,7 +151,7 @@
     <item>
       <title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title>
       <link>https://singkru.github.io/publication/spl/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/spl/</guid>
       <description></description>
     </item>
@@ -159,7 +159,7 @@
     <item>
       <title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title>
       <link>https://singkru.github.io/publication/etri/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/etri/</guid>
       <description></description>
     </item>
@@ -167,7 +167,7 @@
     <item>
       <title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title>
       <link>https://singkru.github.io/publication/tvt/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/tvt/</guid>
       <description></description>
     </item>
@@ -175,7 +175,7 @@
     <item>
       <title>Reducing Feedback Overhead in  Opportunistic Scheduling of Wireless Networks Exploiting Overhearing</title>
       <link>https://singkru.github.io/publication/ksii/</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/ksii/</guid>
       <description></description>
     </item>
@@ -183,7 +183,7 @@
     <item>
       <title>Delay-Optimal Opportunistic Scheduling and Approximations: The Log Rule</title>
       <link>https://singkru.github.io/publication/log/</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/log/</guid>
       <description></description>
     </item>
@@ -191,7 +191,7 @@
     <item>
       <title>Retrieval of the Extreme Values under Deadline Constraints in Wireless Sensor Networks</title>
       <link>https://singkru.github.io/publication/sensors/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/sensors/</guid>
       <description></description>
     </item>

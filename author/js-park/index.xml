@@ -5,9 +5,9 @@
     <link>https://singkru.github.io/author/js-park/</link>
       <atom:link href="https://singkru.github.io/author/js-park/index.xml" rel="self" type="application/rss+xml" />
     <description>JS Park</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>JS Park</title>
       <link>https://singkru.github.io/author/js-park/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Delay-Optimal Scheduling for Two-Hop Relay Networks with Randomly Varying Connectivity: Join the Shortest Queue-Longest Connected Queue Policy</title>
       <link>https://singkru.github.io/publication/jsq/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/jsq/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title>
       <link>https://singkru.github.io/publication/mta/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/mta/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title>
       <link>https://singkru.github.io/publication/jos/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/jos/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Securing one-way hash chain based incentive mechanism for vehicular ad hoc networks</title>
       <link>https://singkru.github.io/publication/gpgpu/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/gpgpu/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title>
       <link>https://singkru.github.io/publication/comj/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/comj/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title>
       <link>https://singkru.github.io/publication/etri/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://singkru.github.io/publication/etri/</guid>
       <description></description>
     </item>

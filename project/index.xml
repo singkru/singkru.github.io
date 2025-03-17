@@ -5,19 +5,73 @@
     <link>https://singkru.github.io/project/</link>
       <atom:link href="https://singkru.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_2.png</url>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://singkru.github.io/project/</link>
     </image>
     
     <item>
-      <title>자율주행을 위한 데이터 융합</title>
+      <title>Deep Learning Systems</title>
+      <link>https://singkru.github.io/project/dl/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/dl/</guid>
+      <description>&lt;p&gt;We focus on the design and optimization of deep learning systems processing multi-modal data covering image, text, video, graphs, time-series data, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative AI</title>
+      <link>https://singkru.github.io/project/generative/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/generative/</guid>
+      <description>&lt;p&gt;We research on generative AI to synthesize multi-modal data encompassing text, image, video, speech, etc., to create contents for applications such as data augmentation, medical AI, gaming and interactive visual/voice assistants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Models</title>
+      <link>https://singkru.github.io/project/llm/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/llm/</guid>
+      <description>&lt;p&gt;We research on language models such as Large Language Models (LLMs), Vision-Language Models (VLMs), Multi-Modal Language Models (MLLMs) and Small Language Models (SLMs) and related topics such as retrieval, in-context learning, instruction tuning, human alignment, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical AI</title>
+      <link>https://singkru.github.io/project/medical-ai/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/medical-ai/</guid>
+      <description>&lt;p&gt;We research on AI methodologies such as computer vision, natural language processing, graph learning, etc., to build systems of medical superintelligence to create AI agents which can assist experts with diagnostics, surgical assitance, personalized medicine and real-time virtual health assistants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Learning</title>
+      <link>https://singkru.github.io/project/graphs/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/graphs/</guid>
+      <description>&lt;p&gt;Graphs are primary representation of information systems such as social networks, drug discovery, recommendation systems, knowledge base, etc. In this research, we study algorithms to learn and predict graph structures on a large scale powered by deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data fusion for autonomous navigation</title>
       <link>https://singkru.github.io/project/fusion/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:01 +0000</pubDate>
       <guid>https://singkru.github.io/project/fusion/</guid>
-      <description>&lt;p&gt;Autonomous navigation systems require timely decision making and collaboration to ensure safety. In this research, we study a real-time fusion of various sensor data, for example, vision, LiDAR, radar data in collaborative environments..&lt;/p&gt;
+      <description>&lt;p&gt;Autonomous navigation systems require timely decision making and collaboration to ensure safety. In this research, we study a real-time fusion of various sensor data, for example, vision, LiDAR, radar data in collaborative environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Systems and AI</title>
+      <link>https://singkru.github.io/project/mobile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/mobile/</guid>
+      <description>&lt;p&gt;We research on AI technologies combined with mobile and distributed systems, such as lightweight AI algorithms for mobile systems, AI for edge/fog networks, federated learning, and mobile AI agents, etc.&lt;/p&gt;
 </description>
     </item>
     
