@@ -5,7 +5,7 @@
     <link>https://singkru.github.io/author/seung-jun-baek/</link>
       <atom:link href="https://singkru.github.io/author/seung-jun-baek/index.xml" rel="self" type="application/rss+xml" />
     <description>Seung Jun Baek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>Seung Jun Baek</title>
@@ -13,28 +13,27 @@
     </image>
     
     <item>
-      <title>ICT 명품인재 사업 (연구비:300억, 기간:10년) 선정!</title>
-      <link>https://singkru.github.io/post/mpij/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://singkru.github.io/post/mpij/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://www.yna.co.kr/view/AKR20200616055100017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;고려대학교 컴퓨터학과-의료원 연합의 명품인재 사업단이 과기정통부에서 주관하는 ICT 명품인재양성사업에 선정됐습니다.&lt;/a&gt; 총연구비 300억, 연구기간 10년 (2020~2029)의 최대 규모의 과제입니다.&lt;/p&gt;
-&lt;p&gt;연구 주제는 &lt;strong&gt;기존의 인공지능의 한계를 뛰어넘어 의료진과 협업이 가능한 수준의 초지능&lt;/strong&gt; 분야로, 영상의학, 재활의학, 감염의학으로 분과됩니다. &lt;strong&gt;지능시스템연구실은 고대의료원과 함께 재활지능 팀을 리드합니다.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;사업을 통해 고려대 컴퓨터학과 대학원에 &lt;strong&gt;인공지능응용전공을 신설&lt;/strong&gt;하며, 도전적인 인공지능 문제를 해결할 인재를 양성하는데 집중하고 있습니다.&lt;/p&gt;
-&lt;p&gt;현재 대학원, 혹은 학부연구생에 많은 오프닝이 있으니 컨택 바랍니다.&lt;/p&gt;
-</description>
+      <title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title>
+      <link>https://singkru.github.io/publication/spl/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/spl/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>BK21 플러스 사업 예비 선정!</title>
-      <link>https://singkru.github.io/post/bk/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://singkru.github.io/post/bk/</guid>
-      <description>&lt;p&gt;고려대학교 컴퓨터학과 사업단이 두뇌한국21플러스 (BK21 plus) 사업에 예비 선정됐습니다 
-&lt;a href=&#34;https://www.dhnews.co.kr/news/articleView.html?idxno=126713&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(관련 기사: ‘4단계 두뇌한국(BK)21’ 68개 대학 선정&amp;hellip;7년간 2조 9천억 지원)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;우리 대학은 이 사업을 통해 대학원 중심의 연구 역량을 키우고 심화된 데이터 과학 및 인공지능에 중점을 둔 교육과정을 운용할 계획이며 지능시스템연구실 참여 사업입니다.&lt;/p&gt;
-&lt;p&gt;관련하여 대학원 및 학부연구생의 지원 및 오프닝이 있으니 컨택 바랍니다.&lt;/p&gt;
-</description>
+      <title>Reducing Feedback Overhead in  Opportunistic Scheduling of Wireless Networks Exploiting Overhearing</title>
+      <link>https://singkru.github.io/publication/ksii/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/ksii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of the Extreme Values under Deadline Constraints in Wireless Sensor Networks</title>
+      <link>https://singkru.github.io/publication/sensors/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sensors/</guid>
+      <description></description>
     </item>
     
   </channel>
