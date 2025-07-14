@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Kwon | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/d-kwon/</link>
+      <atom:link href="https://singkru.github.io/author/d-kwon/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Kwon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>D Kwon</title>
+      <link>https://singkru.github.io/author/d-kwon/</link>
+    </image>
+    
+    <item>
+      <title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title>
+      <link>https://singkru.github.io/publication/miccai25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/aaai24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual domain diffusion guidance for 3D CBCT metal artifact reduction</title>
+      <link>https://singkru.github.io/publication/wacv24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wacv24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

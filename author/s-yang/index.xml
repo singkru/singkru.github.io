@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Yang | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/s-yang/</link>
+      <atom:link href="https://singkru.github.io/author/s-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>S Yang</title>
+      <link>https://singkru.github.io/author/s-yang/</link>
+    </image>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/ton24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/ton24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

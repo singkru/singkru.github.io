@@ -5,12 +5,84 @@
     <link>https://singkru.github.io/author/s-baek/</link>
       <atom:link href="https://singkru.github.io/author/s-baek/index.xml" rel="self" type="application/rss+xml" />
     <description>S Baek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>S Baek</title>
       <link>https://singkru.github.io/author/s-baek/</link>
     </image>
+    
+    <item>
+      <title>ContextFace: Generating Facial Expressions from Emotional Contexts</title>
+      <link>https://singkru.github.io/publication/iccv25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/iccv25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis of carpal tunnel syndrome using deep learning with comparative guidance</title>
+      <link>https://singkru.github.io/publication/cn25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/cn25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title>
+      <link>https://singkru.github.io/publication/miccai25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntriever: How to train your retriever with synthetic data from LLMs</title>
+      <link>https://singkru.github.io/publication/naacl25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/naacl25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QPaug: Question and passage augmentation for open-domain question answering of LLMs</title>
+      <link>https://singkru.github.io/publication/emnlp24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/emnlp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cemb-sam: Segment anything model with condition embedding for joint learning from heterogeneous datasets</title>
+      <link>https://singkru.github.io/publication/miccai23-3/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive learning for action assessment using graph convolutional networks with augmented virtual joints</title>
+      <link>https://singkru.github.io/publication/access23/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/access23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome</title>
+      <link>https://singkru.github.io/publication/bmc23/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/bmc23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Semi-Supervised Segmentation with Randomized Weight Perturbation</title>
+      <link>https://singkru.github.io/publication/isbi23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/isbi23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low-Complexity Coded Transmission Without CSI for Full-Duplex Relay Networks</title>

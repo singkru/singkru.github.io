@@ -5,12 +5,268 @@
     <link>https://singkru.github.io/publication/</link>
       <atom:link href="https://singkru.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>Selected Publications</title>
       <link>https://singkru.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>ContextFace: Generating Facial Expressions from Emotional Contexts</title>
+      <link>https://singkru.github.io/publication/iccv25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/iccv25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis of carpal tunnel syndrome using deep learning with comparative guidance</title>
+      <link>https://singkru.github.io/publication/cn25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/cn25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title>
+      <link>https://singkru.github.io/publication/miccai25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynASyn: Multi-subject personalization enabling dynamic action synthesis</title>
+      <link>https://singkru.github.io/publication/aaai25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntriever: How to train your retriever with synthetic data from LLMs</title>
+      <link>https://singkru.github.io/publication/naacl25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/naacl25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Device Selection and Bandwidth Allocation for Layerwise Federated Learning</title>
+      <link>https://singkru.github.io/publication/gc24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best of Both Modalities: Fusing CBCT and Intraoral Scan Data Into a Single Tooth Image</title>
+      <link>https://singkru.github.io/publication/miccai24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QPaug: Question and passage augmentation for open-domain question answering of LLMs</title>
+      <link>https://singkru.github.io/publication/emnlp24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/emnlp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction</title>
+      <link>https://singkru.github.io/publication/www24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/www24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/aaai24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/ton24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/ton24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic assessment of upper extremity function and mobile application for self-administered stroke rehabilitation</title>
+      <link>https://singkru.github.io/publication/traneural24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/traneural24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Scheduling for Uncoded and Coded Multicast in Millimeter Wave Networks Leveraging Directionality and Reflections</title>
+      <link>https://singkru.github.io/publication/tmc24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tmc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing lumbar radiculopathy using AI-assisted quantitative muscle ultrasound-pilot study</title>
+      <link>https://singkru.github.io/publication/spine24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/spine24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual domain diffusion guidance for 3D CBCT metal artifact reduction</title>
+      <link>https://singkru.github.io/publication/wacv24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wacv24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of temporal parameters correlated with aspiration and lesion location in stroke patients</title>
+      <link>https://singkru.github.io/publication/dys23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/dys23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of deep learning technology for temporal analysis of videofluoroscopic swallowing studies</title>
+      <link>https://singkru.github.io/publication/sr23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sr23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cemb-sam: Segment anything model with condition embedding for joint learning from heterogeneous datasets</title>
+      <link>https://singkru.github.io/publication/miccai23-3/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic segmentation of internal tooth structure from CBCT images using hierarchical deep learning</title>
+      <link>https://singkru.github.io/publication/miccai23-2/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D teeth reconstruction from panoramic radiographs using neural implicit functions</title>
+      <link>https://singkru.github.io/publication/miccai23-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive learning for action assessment using graph convolutional networks with augmented virtual joints</title>
+      <link>https://singkru.github.io/publication/access23/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/access23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome</title>
+      <link>https://singkru.github.io/publication/bmc23/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/bmc23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Semi-Supervised Segmentation with Randomized Weight Perturbation</title>
+      <link>https://singkru.github.io/publication/isbi23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/isbi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reliability and validity of the Korean version of the reaching performance scale for stroke after translation and cross-cultural adaptation</title>
+      <link>https://singkru.github.io/publication/med23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/med23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multicast scheduling for switched beamforming systems leveraging reflections</title>
+      <link>https://singkru.github.io/publication/vtc22/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/vtc22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-aware scheduling for coded packet broadcasting in full-duplex relay networks</title>
+      <link>https://singkru.github.io/publication/wcnc22/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wcnc22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comdense: combined dense embedding of relation-aware and common features for knowledge graph completion</title>
+      <link>https://singkru.github.io/publication/icpr22/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/icpr22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword Spotting with Synthetic Data using Heterogeneous Knowledge Distillation</title>
+      <link>https://singkru.github.io/publication/speech22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/speech22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-attentional U-Net for the segmentation of the median nerve in ultrasound images</title>
+      <link>https://singkru.github.io/publication/us22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/us22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hopfield-type neural ordinary differential equation for robust machine learning</title>
+      <link>https://singkru.github.io/publication/prl21/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/prl21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multicast scheduling for millimeter wave networks leveraging directionality and reflections</title>
+      <link>https://singkru.github.io/publication/infocom21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/infocom21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-complexity coded transmission without CSI for full-duplex relay networks</title>
+      <link>https://singkru.github.io/publication/gc20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gc20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-Time Inter-Vehicle Data Fusion based on A New Metric for Evidence Distance in Autonomous Vehicle Systems</title>

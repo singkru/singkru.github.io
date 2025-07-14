@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JE Park | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/je-park/</link>
+      <atom:link href="https://singkru.github.io/author/je-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>JE Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>JE Park</title>
+      <link>https://singkru.github.io/author/je-park/</link>
+    </image>
+    
+    <item>
+      <title>Automatic assessment of upper extremity function and mobile application for self-administered stroke rehabilitation</title>
+      <link>https://singkru.github.io/publication/traneural24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/traneural24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of temporal parameters correlated with aspiration and lesion location in stroke patients</title>
+      <link>https://singkru.github.io/publication/dys23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/dys23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of deep learning technology for temporal analysis of videofluoroscopic swallowing studies</title>
+      <link>https://singkru.github.io/publication/sr23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sr23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reliability and validity of the Korean version of the reaching performance scale for stroke after translation and cross-cultural adaptation</title>
+      <link>https://singkru.github.io/publication/med23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/med23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

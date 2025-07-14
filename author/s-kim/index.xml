@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Kim | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/s-kim/</link>
+      <atom:link href="https://singkru.github.io/author/s-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>S Kim</title>
+      <link>https://singkru.github.io/author/s-kim/</link>
+    </image>
+    
+    <item>
+      <title>Diagnosis of carpal tunnel syndrome using deep learning with comparative guidance</title>
+      <link>https://singkru.github.io/publication/cn25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/cn25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title>
+      <link>https://singkru.github.io/publication/miccai25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/aaai24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D teeth reconstruction from panoramic radiographs using neural implicit functions</title>
+      <link>https://singkru.github.io/publication/miccai23-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome</title>
+      <link>https://singkru.github.io/publication/bmc23/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/bmc23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Semi-Supervised Segmentation with Randomized Weight Perturbation</title>
+      <link>https://singkru.github.io/publication/isbi23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/isbi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-attentional U-Net for the segmentation of the median nerve in ultrasound images</title>
+      <link>https://singkru.github.io/publication/us22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/us22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

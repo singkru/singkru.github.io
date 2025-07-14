@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SR Woo | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/sr-woo/</link>
+      <atom:link href="https://singkru.github.io/author/sr-woo/index.xml" rel="self" type="application/rss+xml" />
+    <description>SR Woo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>SR Woo</title>
+      <link>https://singkru.github.io/author/sr-woo/</link>
+    </image>
+    
+    <item>
+      <title>Automatic assessment of upper extremity function and mobile application for self-administered stroke rehabilitation</title>
+      <link>https://singkru.github.io/publication/traneural24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/traneural24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IS Cho | System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/author/is-cho/</link>
+      <atom:link href="https://singkru.github.io/author/is-cho/index.xml" rel="self" type="application/rss+xml" />
+    <description>IS Cho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>IS Cho</title>
+      <link>https://singkru.github.io/author/is-cho/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Scheduling for Uncoded and Coded Multicast in Millimeter Wave Networks Leveraging Directionality and Reflections</title>
+      <link>https://singkru.github.io/publication/tmc24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tmc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multicast scheduling for millimeter wave networks leveraging directionality and reflections</title>
+      <link>https://singkru.github.io/publication/infocom21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/infocom21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
