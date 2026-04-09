@@ -1,177 +1,770 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>System INtelligence Group (지능시스템 연구실)</title><link>https://singkru.github.io/</link><atom:link href="https://singkru.github.io/index.xml" rel="self" type="application/rss+xml"/><description>System INtelligence Group (지능시스템 연구실)</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url><title>System INtelligence Group (지능시스템 연구실)</title><link>https://singkru.github.io/</link></image><item><title>Overview</title><link>https://singkru.github.io/courses/example/</link><pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate><guid>https://singkru.github.io/courses/example/</guid><description>&lt;h2 id="flexibility">Flexibility&lt;/h2>
-&lt;p>This feature can be used for publishing content such as:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Online courses&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Project or software documentation&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Tutorials&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;p>The &lt;code>courses&lt;/code> folder may be renamed. For example, we can rename it to &lt;code>docs&lt;/code> for software/project documentation or &lt;code>tutorials&lt;/code> for creating an online course.&lt;/p>
-&lt;h2 id="delete-tutorials">Delete tutorials&lt;/h2>
-&lt;p>&lt;strong>To remove these pages, delete the &lt;code>courses&lt;/code> folder and see below to delete the associated menu link.&lt;/strong>&lt;/p>
-&lt;h2 id="update-site-menu">Update site menu&lt;/h2>
-&lt;p>After renaming or deleting the &lt;code>courses&lt;/code> folder, you may wish to update any &lt;code>[[main]]&lt;/code> menu links to it by editing your menu configuration at &lt;code>config/_default/menus.toml&lt;/code>.&lt;/p>
-&lt;p>For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p>
-&lt;pre>&lt;code class="language-toml">[[main]]
-name = &amp;quot;Courses&amp;quot;
-url = &amp;quot;courses/&amp;quot;
-weight = 50
-&lt;/code>&lt;/pre>
-&lt;p>Or, if you are creating a software documentation site, you can rename the &lt;code>courses&lt;/code> folder to &lt;code>docs&lt;/code> and update the associated &lt;em>Courses&lt;/em> menu configuration to:&lt;/p>
-&lt;pre>&lt;code class="language-toml">[[main]]
-name = &amp;quot;Docs&amp;quot;
-url = &amp;quot;docs/&amp;quot;
-weight = 50
-&lt;/code>&lt;/pre>
-&lt;h2 id="update-the-docs-menu">Update the docs menu&lt;/h2>
-&lt;p>If you use the &lt;em>docs&lt;/em> layout, note that the name of the menu in the front matter should be in the form &lt;code>[menu.X]&lt;/code> where &lt;code>X&lt;/code> is the folder name. Hence, if you rename the &lt;code>courses/example/&lt;/code> folder, you should also rename the menu definitions in the front matter of files within &lt;code>courses/example/&lt;/code> from &lt;code>[menu.example]&lt;/code> to &lt;code>[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code>.&lt;/p></description></item><item><title>Example Page 1</title><link>https://singkru.github.io/courses/ex1/example1/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://singkru.github.io/courses/ex1/example1/</guid><description>&lt;p>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p>
-&lt;h2 id="tip-1">Tip 1&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p>
-&lt;h2 id="tip-2">Tip 2&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Example Page 2</title><link>https://singkru.github.io/courses/ex2/example2/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://singkru.github.io/courses/ex2/example2/</guid><description>&lt;p>Here are some more tips for getting started with Academic:&lt;/p>
-&lt;h2 id="tip-3">Tip 3&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p>
-&lt;h2 id="tip-4">Tip 4&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Explain in Your Own Words: Improving Reasoning via Token-Selective Dual Knowledge Distillation</title><link>https://singkru.github.io/publication/iclr26/</link><pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/iclr26/</guid><description/></item><item><title>Root Completion from Intraoral Scans of Tooth Crowns using Diffusion with Patch Perturbation</title><link>https://singkru.github.io/publication/wacv26/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/wacv26/</guid><description/></item><item><title>ContextFace: Generating Facial Expressions from Emotional Contexts</title><link>https://singkru.github.io/publication/iccv25/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/iccv25/</guid><description/></item><item><title>Diagnosis of carpal tunnel syndrome using deep learning with comparative guidance</title><link>https://singkru.github.io/publication/cn25/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/cn25/</guid><description/></item><item><title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title><link>https://singkru.github.io/publication/miccai25/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/miccai25/</guid><description/></item><item><title>DynASyn: Multi-subject personalization enabling dynamic action synthesis</title><link>https://singkru.github.io/publication/aaai25/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/aaai25/</guid><description/></item><item><title>Syntriever: How to train your retriever with synthetic data from LLMs</title><link>https://singkru.github.io/publication/naacl25/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/naacl25/</guid><description/></item><item><title>Joint Device Selection and Bandwidth Allocation for Layerwise Federated Learning</title><link>https://singkru.github.io/publication/gc24/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/gc24/</guid><description/></item><item><title>Best of Both Modalities: Fusing CBCT and Intraoral Scan Data Into a Single Tooth Image</title><link>https://singkru.github.io/publication/miccai24/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/miccai24/</guid><description/></item><item><title>QPaug: Question and passage augmentation for open-domain question answering of LLMs</title><link>https://singkru.github.io/publication/emnlp24/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/emnlp24/</guid><description/></item><item><title>Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction</title><link>https://singkru.github.io/publication/www24/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/www24/</guid><description/></item><item><title>NeBLa: Neural beer-lambert for 3D reconstruction of oral structures from panoramic radiographs</title><link>https://singkru.github.io/publication/aaai24/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/aaai24/</guid><description/></item><item><title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title><link>https://singkru.github.io/publication/ton24/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/ton24/</guid><description/></item><item><title>Automatic assessment of upper extremity function and mobile application for self-administered stroke rehabilitation</title><link>https://singkru.github.io/publication/traneural24/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/traneural24/</guid><description/></item><item><title>Optimal Scheduling for Uncoded and Coded Multicast in Millimeter Wave Networks Leveraging Directionality and Reflections</title><link>https://singkru.github.io/publication/tmc24/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/tmc24/</guid><description/></item><item><title>Distinguishing lumbar radiculopathy using AI-assisted quantitative muscle ultrasound-pilot study</title><link>https://singkru.github.io/publication/spine24/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/spine24/</guid><description/></item><item><title>Dual domain diffusion guidance for 3D CBCT metal artifact reduction</title><link>https://singkru.github.io/publication/wacv24/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/wacv24/</guid><description/></item><item><title>Quantitative analysis of temporal parameters correlated with aspiration and lesion location in stroke patients</title><link>https://singkru.github.io/publication/dys23/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/dys23/</guid><description/></item><item><title>Application of deep learning technology for temporal analysis of videofluoroscopic swallowing studies</title><link>https://singkru.github.io/publication/sr23/</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/sr23/</guid><description/></item><item><title>Cemb-sam: Segment anything model with condition embedding for joint learning from heterogeneous datasets</title><link>https://singkru.github.io/publication/miccai23-3/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/miccai23-3/</guid><description/></item><item><title>Automatic segmentation of internal tooth structure from CBCT images using hierarchical deep learning</title><link>https://singkru.github.io/publication/miccai23-2/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/miccai23-2/</guid><description/></item><item><title>3D teeth reconstruction from panoramic radiographs using neural implicit functions</title><link>https://singkru.github.io/publication/miccai23-1/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/miccai23-1/</guid><description/></item><item><title>Contrastive learning for action assessment using graph convolutional networks with augmented virtual joints</title><link>https://singkru.github.io/publication/access23/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/access23/</guid><description/></item><item><title>Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome</title><link>https://singkru.github.io/publication/bmc23/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/bmc23/</guid><description/></item><item><title>Federated Semi-Supervised Segmentation with Randomized Weight Perturbation</title><link>https://singkru.github.io/publication/isbi23/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/isbi23/</guid><description/></item><item><title>The reliability and validity of the Korean version of the reaching performance scale for stroke after translation and cross-cultural adaptation</title><link>https://singkru.github.io/publication/med23/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/med23/</guid><description/></item><item><title>Optimal multicast scheduling for switched beamforming systems leveraging reflections</title><link>https://singkru.github.io/publication/vtc22/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/vtc22/</guid><description/></item><item><title>Channel-aware scheduling for coded packet broadcasting in full-duplex relay networks</title><link>https://singkru.github.io/publication/wcnc22/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/wcnc22/</guid><description/></item><item><title>Comdense: combined dense embedding of relation-aware and common features for knowledge graph completion</title><link>https://singkru.github.io/publication/icpr22/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/icpr22/</guid><description/></item><item><title>Keyword Spotting with Synthetic Data using Heterogeneous Knowledge Distillation</title><link>https://singkru.github.io/publication/speech22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/speech22/</guid><description/></item><item><title>Scale-attentional U-Net for the segmentation of the median nerve in ultrasound images</title><link>https://singkru.github.io/publication/us22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/us22/</guid><description/></item><item><title>Hopfield-type neural ordinary differential equation for robust machine learning</title><link>https://singkru.github.io/publication/prl21/</link><pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/prl21/</guid><description/></item><item><title>Optimal multicast scheduling for millimeter wave networks leveraging directionality and reflections</title><link>https://singkru.github.io/publication/infocom21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/infocom21/</guid><description/></item><item><title>Low-complexity coded transmission without CSI for full-duplex relay networks</title><link>https://singkru.github.io/publication/gc20/</link><pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/gc20/</guid><description/></item><item><title>Real-Time Inter-Vehicle Data Fusion based on A New Metric for Evidence Distance in Autonomous Vehicle Systems</title><link>https://singkru.github.io/publication/fusion/</link><pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/fusion/</guid><description/></item><item><title>Low-Complexity Coded Transmission Without CSI for Full-Duplex Relay Networks</title><link>https://singkru.github.io/publication/gcomm/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/gcomm/</guid><description/></item><item><title>ICT 명품인재 사업 (연구비:300억, 기간:10년) 선정!</title><link>https://singkru.github.io/post/mpij/</link><pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/post/mpij/</guid><description>&lt;p>
-&lt;a href="https://www.yna.co.kr/view/AKR20200616055100017" target="_blank" rel="noopener">고려대학교 컴퓨터학과-의료원 연합의 명품인재 사업단이 과기정통부에서 주관하는 ICT 명품인재양성사업에 선정됐습니다.&lt;/a> 총연구비 300억, 연구기간 10년 (2020~2029)의 최대 규모의 과제입니다.&lt;/p>
-&lt;p>연구 주제는 &lt;strong>기존의 인공지능의 한계를 뛰어넘어 의료진과 협업이 가능한 수준의 초지능&lt;/strong> 분야로, 영상의학, 재활의학, 감염의학으로 분과됩니다. &lt;strong>지능시스템연구실은 고대의료원과 함께 재활지능 팀을 리드합니다.&lt;/strong>&lt;/p>
-&lt;p>사업을 통해 고려대 컴퓨터학과 대학원에 &lt;strong>인공지능응용전공을 신설&lt;/strong>하며, 도전적인 인공지능 문제를 해결할 인재를 양성하는데 집중하고 있습니다.&lt;/p>
-&lt;p>현재 대학원, 혹은 학부연구생에 많은 오프닝이 있으니 컨택 바랍니다.&lt;/p></description></item><item><title>BK21 플러스 사업 예비 선정!</title><link>https://singkru.github.io/post/bk/</link><pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/post/bk/</guid><description>&lt;p>고려대학교 컴퓨터학과 사업단이 두뇌한국21플러스 (BK21 plus) 사업에 예비 선정됐습니다
-&lt;a href="https://www.dhnews.co.kr/news/articleView.html?idxno=126713" target="_blank" rel="noopener">(관련 기사: ‘4단계 두뇌한국(BK)21’ 68개 대학 선정&amp;hellip;7년간 2조 9천억 지원)&lt;/a>&lt;/p>
-&lt;p>우리 대학은 이 사업을 통해 대학원 중심의 연구 역량을 키우고 심화된 데이터 과학 및 인공지능에 중점을 둔 교육과정을 운용할 계획이며 지능시스템연구실 참여 사업입니다.&lt;/p>
-&lt;p>관련하여 대학원 및 학부연구생의 지원 및 오프닝이 있으니 컨택 바랍니다.&lt;/p></description></item><item><title>Deep Learning Systems</title><link>https://singkru.github.io/project/dl/</link><pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/dl/</guid><description>&lt;p>We focus on the design and optimization of deep learning systems processing multi-modal data covering image, text, video, graphs, time-series data, and more.&lt;/p></description></item><item><title>Blockchain of Finite-Lifetime Blocks with Applications to Edge-based IoT</title><link>https://singkru.github.io/publication/iotj/</link><pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/iotj/</guid><description/></item><item><title>Generative AI</title><link>https://singkru.github.io/project/generative/</link><pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/generative/</guid><description>&lt;p>We research on generative AI to synthesize multi-modal data encompassing text, image, video, speech, etc., to create contents for applications such as data augmentation, medical AI, gaming and interactive visual/voice assistants.&lt;/p></description></item><item><title>Language Models</title><link>https://singkru.github.io/project/llm/</link><pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/llm/</guid><description>&lt;p>We research on language models such as Large Language Models (LLMs), Vision-Language Models (VLMs), Multi-Modal Language Models (MLLMs) and Small Language Models (SLMs) and related topics such as retrieval, in-context learning, instruction tuning, human alignment, etc.&lt;/p></description></item><item><title>Medical AI</title><link>https://singkru.github.io/project/medical-ai/</link><pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/medical-ai/</guid><description>&lt;p>We research on AI methodologies such as computer vision, natural language processing, graph learning, etc., to build systems of medical superintelligence to create AI agents which can assist experts with diagnostics, surgical assitance, personalized medicine and real-time virtual health assistants.&lt;/p></description></item><item><title>Graph Learning</title><link>https://singkru.github.io/project/graphs/</link><pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/graphs/</guid><description>&lt;p>Graphs are primary representation of information systems such as social networks, drug discovery, recommendation systems, knowledge base, etc. In this research, we study algorithms to learn and predict graph structures on a large scale powered by deep learning.&lt;/p></description></item><item><title>Data fusion for autonomous navigation</title><link>https://singkru.github.io/project/fusion/</link><pubDate>Wed, 01 Jan 2020 00:00:01 +0000</pubDate><guid>https://singkru.github.io/project/fusion/</guid><description>&lt;p>Autonomous navigation systems require timely decision making and collaboration to ensure safety. In this research, we study a real-time fusion of various sensor data, for example, vision, LiDAR, radar data in collaborative environments.&lt;/p></description></item><item><title>Mobile Systems and AI</title><link>https://singkru.github.io/project/mobile/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://singkru.github.io/project/mobile/</guid><description>&lt;p>We research on AI technologies combined with mobile and distributed systems, such as lightweight AI algorithms for mobile systems, AI for edge/fog networks, federated learning, and mobile AI agents, etc.&lt;/p></description></item><item><title>Slides</title><link>https://singkru.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://singkru.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
-&lt;p>
-&lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a> |
-&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>Efficiently write slides in Markdown&lt;/li>
-&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
-&lt;li>Supports speaker notes&lt;/li>
-&lt;li>Mobile friendly slides&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="controls">Controls&lt;/h2>
-&lt;ul>
-&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
-&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
-&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
-&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
-&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
-&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
-&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
-&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
-&lt;li>
-&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
-&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
-&lt;p>Code block:&lt;/p>
-&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System INtelligence Group (지능시스템 연구실)</title>
+    <link>https://singkru.github.io/</link>
+      <atom:link href="https://singkru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>System INtelligence Group (지능시스템 연구실)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
+      <title>System INtelligence Group (지능시스템 연구실)</title>
+      <link>https://singkru.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://singkru.github.io/courses/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/courses/example/</guid>
+      <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
+&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;code&gt;courses&lt;/code&gt; folder may be renamed. For example, we can rename it to &lt;code&gt;docs&lt;/code&gt; for software/project documentation or &lt;code&gt;tutorials&lt;/code&gt; for creating an online course.&lt;/p&gt;
+&lt;h2 id=&#34;delete-tutorials&#34;&gt;Delete tutorials&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;To remove these pages, delete the &lt;code&gt;courses&lt;/code&gt; folder and see below to delete the associated menu link.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;update-site-menu&#34;&gt;Update site menu&lt;/h2&gt;
+&lt;p&gt;After renaming or deleting the &lt;code&gt;courses&lt;/code&gt; folder, you may wish to update any &lt;code&gt;[[main]]&lt;/code&gt; menu links to it by editing your menu configuration at &lt;code&gt;config/_default/menus.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[[main]]
+  name = &amp;quot;Courses&amp;quot;
+  url = &amp;quot;courses/&amp;quot;
+  weight = 50
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or, if you are creating a software documentation site, you can rename the &lt;code&gt;courses&lt;/code&gt; folder to &lt;code&gt;docs&lt;/code&gt; and update the associated &lt;em&gt;Courses&lt;/em&gt; menu configuration to:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[[main]]
+  name = &amp;quot;Docs&amp;quot;
+  url = &amp;quot;docs/&amp;quot;
+  weight = 50
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;update-the-docs-menu&#34;&gt;Update the docs menu&lt;/h2&gt;
+&lt;p&gt;If you use the &lt;em&gt;docs&lt;/em&gt; layout, note that the name of the menu in the front matter should be in the form &lt;code&gt;[menu.X]&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the folder name. Hence, if you rename the &lt;code&gt;courses/example/&lt;/code&gt; folder, you should also rename the menu definitions in the front matter of files within &lt;code&gt;courses/example/&lt;/code&gt; from &lt;code&gt;[menu.example]&lt;/code&gt; to &lt;code&gt;[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://singkru.github.io/courses/ex1/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://singkru.github.io/courses/ex1/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://singkru.github.io/courses/ex2/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://singkru.github.io/courses/ex2/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explain in Your Own Words: Improving Reasoning via Token-Selective Dual Knowledge Distillation</title>
+      <link>https://singkru.github.io/publication/iclr26/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/iclr26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Root Completion from Intraoral Scans of Tooth Crowns using Diffusion with Patch Perturbation</title>
+      <link>https://singkru.github.io/publication/wacv26/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wacv26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextFace: Generating Facial Expressions from Emotional Contexts</title>
+      <link>https://singkru.github.io/publication/iccv25/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/iccv25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis of carpal tunnel syndrome using deep learning with comparative guidance</title>
+      <link>https://singkru.github.io/publication/cn25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/cn25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DuoDent: Tooth Generation using Dual-Stream Diffusion with Normal Consistency</title>
+      <link>https://singkru.github.io/publication/miccai25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynASyn: Multi-subject personalization enabling dynamic action synthesis</title>
+      <link>https://singkru.github.io/publication/aaai25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntriever: How to train your retriever with synthetic data from LLMs</title>
+      <link>https://singkru.github.io/publication/naacl25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/naacl25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Device Selection and Bandwidth Allocation for Layerwise Federated Learning</title>
+      <link>https://singkru.github.io/publication/gc24/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best of Both Modalities: Fusing CBCT and Intraoral Scan Data Into a Single Tooth Image</title>
+      <link>https://singkru.github.io/publication/miccai24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QPaug: Question and passage augmentation for open-domain question answering of LLMs</title>
+      <link>https://singkru.github.io/publication/emnlp24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/emnlp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction</title>
+      <link>https://singkru.github.io/publication/www24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/www24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeBLa: Neural beer-lambert for 3D reconstruction of oral structures from panoramic radiographs</title>
+      <link>https://singkru.github.io/publication/aaai24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/aaai24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical and efficient coded transmission for full-duplex relay networks without CSI</title>
+      <link>https://singkru.github.io/publication/ton24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/ton24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic assessment of upper extremity function and mobile application for self-administered stroke rehabilitation</title>
+      <link>https://singkru.github.io/publication/traneural24/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/traneural24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Scheduling for Uncoded and Coded Multicast in Millimeter Wave Networks Leveraging Directionality and Reflections</title>
+      <link>https://singkru.github.io/publication/tmc24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tmc24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing lumbar radiculopathy using AI-assisted quantitative muscle ultrasound-pilot study</title>
+      <link>https://singkru.github.io/publication/spine24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/spine24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual domain diffusion guidance for 3D CBCT metal artifact reduction</title>
+      <link>https://singkru.github.io/publication/wacv24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wacv24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of temporal parameters correlated with aspiration and lesion location in stroke patients</title>
+      <link>https://singkru.github.io/publication/dys23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/dys23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of deep learning technology for temporal analysis of videofluoroscopic swallowing studies</title>
+      <link>https://singkru.github.io/publication/sr23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sr23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cemb-sam: Segment anything model with condition embedding for joint learning from heterogeneous datasets</title>
+      <link>https://singkru.github.io/publication/miccai23-3/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic segmentation of internal tooth structure from CBCT images using hierarchical deep learning</title>
+      <link>https://singkru.github.io/publication/miccai23-2/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D teeth reconstruction from panoramic radiographs using neural implicit functions</title>
+      <link>https://singkru.github.io/publication/miccai23-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/miccai23-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive learning for action assessment using graph convolutional networks with augmented virtual joints</title>
+      <link>https://singkru.github.io/publication/access23/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/access23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of artificial intelligence assisted quantitative muscle ultrasound in carpal tunnel syndrome</title>
+      <link>https://singkru.github.io/publication/bmc23/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/bmc23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Semi-Supervised Segmentation with Randomized Weight Perturbation</title>
+      <link>https://singkru.github.io/publication/isbi23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/isbi23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reliability and validity of the Korean version of the reaching performance scale for stroke after translation and cross-cultural adaptation</title>
+      <link>https://singkru.github.io/publication/med23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/med23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multicast scheduling for switched beamforming systems leveraging reflections</title>
+      <link>https://singkru.github.io/publication/vtc22/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/vtc22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel-aware scheduling for coded packet broadcasting in full-duplex relay networks</title>
+      <link>https://singkru.github.io/publication/wcnc22/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/wcnc22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comdense: combined dense embedding of relation-aware and common features for knowledge graph completion</title>
+      <link>https://singkru.github.io/publication/icpr22/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/icpr22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword Spotting with Synthetic Data using Heterogeneous Knowledge Distillation</title>
+      <link>https://singkru.github.io/publication/speech22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/speech22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-attentional U-Net for the segmentation of the median nerve in ultrasound images</title>
+      <link>https://singkru.github.io/publication/us22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/us22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hopfield-type neural ordinary differential equation for robust machine learning</title>
+      <link>https://singkru.github.io/publication/prl21/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/prl21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal multicast scheduling for millimeter wave networks leveraging directionality and reflections</title>
+      <link>https://singkru.github.io/publication/infocom21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/infocom21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-complexity coded transmission without CSI for full-duplex relay networks</title>
+      <link>https://singkru.github.io/publication/gc20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Inter-Vehicle Data Fusion based on A New Metric for Evidence Distance in Autonomous Vehicle Systems</title>
+      <link>https://singkru.github.io/publication/fusion/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Complexity Coded Transmission Without CSI for Full-Duplex Relay Networks</title>
+      <link>https://singkru.github.io/publication/gcomm/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT 명품인재 사업 (연구비:300억, 기간:10년) 선정!</title>
+      <link>https://singkru.github.io/post/mpij/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/post/mpij/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.yna.co.kr/view/AKR20200616055100017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;고려대학교 컴퓨터학과-의료원 연합의 명품인재 사업단이 과기정통부에서 주관하는 ICT 명품인재양성사업에 선정됐습니다.&lt;/a&gt; 총연구비 300억, 연구기간 10년 (2020~2029)의 최대 규모의 과제입니다.&lt;/p&gt;
+&lt;p&gt;연구 주제는 &lt;strong&gt;기존의 인공지능의 한계를 뛰어넘어 의료진과 협업이 가능한 수준의 초지능&lt;/strong&gt; 분야로, 영상의학, 재활의학, 감염의학으로 분과됩니다. &lt;strong&gt;지능시스템연구실은 고대의료원과 함께 재활지능 팀을 리드합니다.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;사업을 통해 고려대 컴퓨터학과 대학원에 &lt;strong&gt;인공지능응용전공을 신설&lt;/strong&gt;하며, 도전적인 인공지능 문제를 해결할 인재를 양성하는데 집중하고 있습니다.&lt;/p&gt;
+&lt;p&gt;현재 대학원, 혹은 학부연구생에 많은 오프닝이 있으니 컨택 바랍니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BK21 플러스 사업 예비 선정!</title>
+      <link>https://singkru.github.io/post/bk/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/post/bk/</guid>
+      <description>&lt;p&gt;고려대학교 컴퓨터학과 사업단이 두뇌한국21플러스 (BK21 plus) 사업에 예비 선정됐습니다 
+&lt;a href=&#34;https://www.dhnews.co.kr/news/articleView.html?idxno=126713&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(관련 기사: ‘4단계 두뇌한국(BK)21’ 68개 대학 선정&amp;hellip;7년간 2조 9천억 지원)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;우리 대학은 이 사업을 통해 대학원 중심의 연구 역량을 키우고 심화된 데이터 과학 및 인공지능에 중점을 둔 교육과정을 운용할 계획이며 지능시스템연구실 참여 사업입니다.&lt;/p&gt;
+&lt;p&gt;관련하여 대학원 및 학부연구생의 지원 및 오프닝이 있으니 컨택 바랍니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Systems</title>
+      <link>https://singkru.github.io/project/dl/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/dl/</guid>
+      <description>&lt;p&gt;We focus on the design and optimization of deep learning systems processing multi-modal data covering image, text, video, graphs, time-series data, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain of Finite-Lifetime Blocks with Applications to Edge-based IoT</title>
+      <link>https://singkru.github.io/publication/iotj/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/iotj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative AI</title>
+      <link>https://singkru.github.io/project/generative/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/generative/</guid>
+      <description>&lt;p&gt;We research on generative AI to synthesize multi-modal data encompassing text, image, video, speech, etc., to create contents for applications such as data augmentation, medical AI, gaming and interactive visual/voice assistants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Models</title>
+      <link>https://singkru.github.io/project/llm/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/llm/</guid>
+      <description>&lt;p&gt;We research on language models such as Large Language Models (LLMs), Vision-Language Models (VLMs), Multi-Modal Language Models (MLLMs) and Small Language Models (SLMs) and related topics such as retrieval, in-context learning, instruction tuning, human alignment, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical AI</title>
+      <link>https://singkru.github.io/project/medical-ai/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/medical-ai/</guid>
+      <description>&lt;p&gt;We research on AI methodologies such as computer vision, natural language processing, graph learning, etc., to build systems of medical superintelligence to create AI agents which can assist experts with diagnostics, surgical assitance, personalized medicine and real-time virtual health assistants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Learning</title>
+      <link>https://singkru.github.io/project/graphs/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/graphs/</guid>
+      <description>&lt;p&gt;Graphs are primary representation of information systems such as social networks, drug discovery, recommendation systems, knowledge base, etc. In this research, we study algorithms to learn and predict graph structures on a large scale powered by deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data fusion for autonomous navigation</title>
+      <link>https://singkru.github.io/project/fusion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:01 +0000</pubDate>
+      <guid>https://singkru.github.io/project/fusion/</guid>
+      <description>&lt;p&gt;Autonomous navigation systems require timely decision making and collaboration to ensure safety. In this research, we study a real-time fusion of various sensor data, for example, vision, LiDAR, radar data in collaborative environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Systems and AI</title>
+      <link>https://singkru.github.io/project/mobile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/project/mobile/</guid>
+      <description>&lt;p&gt;We research on AI technologies combined with mobile and distributed systems, such as lightweight AI algorithms for mobile systems, AI for edge/fog networks, federated learning, and mobile AI agents, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://singkru.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
 if porridge == &amp;quot;blueberry&amp;quot;:
-print(&amp;quot;Eating...&amp;quot;)
-&lt;/code>&lt;/pre>
-&lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
-&lt;p>In-line math: $x + y = z$&lt;/p>
-&lt;p>Block math:&lt;/p>
-&lt;p>$$
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p>
-&lt;hr>
-&lt;h2 id="fragments">Fragments&lt;/h2>
-&lt;p>Make content appear incrementally&lt;/p>
-&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-&lt;/code>&lt;/pre>
-&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;span class="fragment " >
-One
-&lt;/span>
-&lt;span class="fragment " >
-**Two**
-&lt;/span>
-&lt;span class="fragment " >
-Three
-&lt;/span>
-&lt;hr>
-&lt;p>A fragment can accept two optional parameters:&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
-&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
-&lt;p>Add speaker notes to your presentation&lt;/p>
-&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
 - Only the speaker can read these notes
 - Press `S` key to view
 {{% /speaker_note %}}
-&lt;/code>&lt;/pre>
-&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
-&lt;aside class="notes">
-&lt;ul>
-&lt;li>Only the speaker can read these notes&lt;/li>
-&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
-&lt;/ul>
-&lt;/aside>
-&lt;hr>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;ul>
-&lt;li>black: Black background, white text, blue links (default)&lt;/li>
-&lt;li>white: White background, black text, blue links&lt;/li>
-&lt;li>league: Gray background, white text, blue links&lt;/li>
-&lt;li>beige: Beige background, dark text, brown links&lt;/li>
-&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;ul>
-&lt;li>night: Black background, thick white text, orange links&lt;/li>
-&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
-&lt;li>simple: White background, black text, blue links&lt;/li>
-&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
 &lt;section data-noprocess data-shortcode-slide
-data-background-image="/media/boards.jpg"
->
-&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
-&lt;p>Customize the slide style and background&lt;/p>
-&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code>&lt;/pre>
-&lt;hr>
-&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
-&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
-&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
-&lt;pre>&lt;code class="language-css">.reveal section h1,
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-color: navy;
+  color: navy;
 }
-&lt;/code>&lt;/pre>
-&lt;hr>
-&lt;h1 id="questions">Questions?&lt;/h1>
-&lt;p>
-&lt;a href="https://spectrum.chat/academic" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Cooperative Buffer-Aided Relaying Using Full-Duplex Relays With Flow Control</title><link>https://singkru.github.io/publication/tvt2/</link><pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/tvt2/</guid><description/></item><item><title>Statistical Multiplexing and Traffic Shaping Games for Network Slicing</title><link>https://singkru.github.io/publication/slice/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/slice/</guid><description/></item><item><title>A Robust Proposal Generation Method for Text Lines in Natural Scene Images</title><link>https://singkru.github.io/publication/text/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/text/</guid><description/></item><item><title>Joint Load Balancing and Energy Saving Algorithm for Virtual Network Embedding in Infrastructure Providers</title><link>https://singkru.github.io/publication/vn/</link><pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/vn/</guid><description/></item><item><title>Multicast Scheduling for Relay-based Heterogeneous Networks using Rateless Codes</title><link>https://singkru.github.io/publication/relay-bs/</link><pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/relay-bs/</guid><description/></item><item><title>Delay-Optimal Scheduling for Two-Hop Relay Networks with Randomly Varying Connectivity: Join the Shortest Queue-Longest Connected Queue Policy</title><link>https://singkru.github.io/publication/jsq/</link><pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/jsq/</guid><description/></item><item><title>Joint routing and scheduling for data collection with compressive sensing to achieve order-optimal latency</title><link>https://singkru.github.io/publication/sensor/</link><pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/sensor/</guid><description/></item><item><title>Energy-Efficient Collection of Sparse Data in Wireless Sensor Networks Using Sparse Random Matrices</title><link>https://singkru.github.io/publication/tosn/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/tosn/</guid><description/></item><item><title>Distributed Power Allocation for Femtocell Networks Subject to Macrocell SINR Balancing</title><link>https://singkru.github.io/publication/game/</link><pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/game/</guid><description/></item><item><title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title><link>https://singkru.github.io/publication/mta/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/mta/</guid><description/></item><item><title>Opportunistic Scheduling of Randomly Coded Multicast Transmissions at Half-Duplex Relay Stations</title><link>https://singkru.github.io/publication/relay-rs/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/relay-rs/</guid><description/></item><item><title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title><link>https://singkru.github.io/publication/jos/</link><pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/jos/</guid><description/></item><item><title>Securing one-way hash chain based incentive mechanism for vehicular ad hoc networks</title><link>https://singkru.github.io/publication/gpgpu/</link><pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/gpgpu/</guid><description/></item><item><title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title><link>https://singkru.github.io/publication/comj/</link><pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/comj/</guid><description/></item><item><title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title><link>https://singkru.github.io/publication/spl/</link><pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/spl/</guid><description/></item><item><title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title><link>https://singkru.github.io/publication/etri/</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/etri/</guid><description/></item><item><title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title><link>https://singkru.github.io/publication/tvt/</link><pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/tvt/</guid><description/></item><item><title>Reducing Feedback Overhead in Opportunistic Scheduling of Wireless Networks Exploiting Overhearing</title><link>https://singkru.github.io/publication/ksii/</link><pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/ksii/</guid><description/></item><item><title>Delay-Optimal Opportunistic Scheduling and Approximations: The Log Rule</title><link>https://singkru.github.io/publication/log/</link><pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/log/</guid><description/></item><item><title>Retrieval of the Extreme Values under Deadline Constraints in Wireless Sensor Networks</title><link>https://singkru.github.io/publication/sensors/</link><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><guid>https://singkru.github.io/publication/sensors/</guid><description/></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cooperative Buffer-Aided Relaying Using Full-Duplex Relays With Flow Control</title>
+      <link>https://singkru.github.io/publication/tvt2/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tvt2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Multiplexing and Traffic Shaping Games for Network Slicing</title>
+      <link>https://singkru.github.io/publication/slice/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/slice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Proposal Generation Method for Text Lines in Natural Scene Images</title>
+      <link>https://singkru.github.io/publication/text/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Load Balancing and Energy Saving Algorithm for Virtual Network Embedding in Infrastructure Providers</title>
+      <link>https://singkru.github.io/publication/vn/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/vn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicast Scheduling for Relay-based Heterogeneous Networks using Rateless Codes</title>
+      <link>https://singkru.github.io/publication/relay-bs/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/relay-bs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-Optimal Scheduling for Two-Hop Relay Networks with Randomly Varying Connectivity: Join the Shortest Queue-Longest Connected Queue Policy</title>
+      <link>https://singkru.github.io/publication/jsq/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/jsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint routing and scheduling for data collection with compressive sensing to achieve order-optimal latency</title>
+      <link>https://singkru.github.io/publication/sensor/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Collection of Sparse Data in Wireless Sensor Networks Using Sparse Random Matrices</title>
+      <link>https://singkru.github.io/publication/tosn/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tosn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Power Allocation for Femtocell Networks Subject to Macrocell SINR Balancing</title>
+      <link>https://singkru.github.io/publication/game/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of precise indoor position tracking to immersive virtual reality with translational movement support</title>
+      <link>https://singkru.github.io/publication/mta/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Scheduling of Randomly Coded Multicast Transmissions at Half-Duplex Relay Stations</title>
+      <link>https://singkru.github.io/publication/relay-rs/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/relay-rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Cost Data Aggregation for Wireless Sensor Networks Computing Functions of Sensed Data</title>
+      <link>https://singkru.github.io/publication/jos/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/jos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing one-way hash chain based incentive mechanism for vehicular ad hoc networks</title>
+      <link>https://singkru.github.io/publication/gpgpu/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Highly Parallelized Decoder for Random Network Coding leveraging GPGPU</title>
+      <link>https://singkru.github.io/publication/comj/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/comj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sufficient Conditions on Stable Recovery of Sparse Signals With Partial Support Information</title>
+      <link>https://singkru.github.io/publication/spl/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/spl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Random Network Coding with On-Demand Multicast Routing Protocol</title>
+      <link>https://singkru.github.io/publication/etri/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/etri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Feedback and Scheduling to Reduce Packet Delays in Heterogeneous Wireless Systems</title>
+      <link>https://singkru.github.io/publication/tvt/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/tvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Feedback Overhead in  Opportunistic Scheduling of Wireless Networks Exploiting Overhearing</title>
+      <link>https://singkru.github.io/publication/ksii/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/ksii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-Optimal Opportunistic Scheduling and Approximations: The Log Rule</title>
+      <link>https://singkru.github.io/publication/log/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval of the Extreme Values under Deadline Constraints in Wireless Sensor Networks</title>
+      <link>https://singkru.github.io/publication/sensors/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/sensors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
