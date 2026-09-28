@@ -5,12 +5,20 @@
     <link>https://singkru.github.io/publication-type/2/</link>
       <atom:link href="https://singkru.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://singkru.github.io/images/icon_hue6705305a4e46c6579aaa23b49935281_847_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://singkru.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs</title>
+      <link>https://singkru.github.io/publication/neurips26/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://singkru.github.io/publication/neurips26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneity-Aware Orchestration for Satellite Federated Learning</title>
